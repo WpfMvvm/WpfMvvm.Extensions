@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvm.Extensions", "WpfMvvm.Extensions.csproj", "{2564A067-3D23-48B4-A4C2-CCE8BB684F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NuGet|Any CPU = NuGet|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2564A067-3D23-48B4-A4C2-CCE8BB684F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2564A067-3D23-48B4-A4C2-CCE8BB684F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2564A067-3D23-48B4-A4C2-CCE8BB684F1F}.NuGet|Any CPU.ActiveCfg = NuGet|Any CPU
+		{2564A067-3D23-48B4-A4C2-CCE8BB684F1F}.NuGet|Any CPU.Build.0 = NuGet|Any CPU
+		{2564A067-3D23-48B4-A4C2-CCE8BB684F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2564A067-3D23-48B4-A4C2-CCE8BB684F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F03567A5-D92E-4B5D-BF09-6F4AD9F25AAB}
+	EndGlobalSection
+EndGlobal
